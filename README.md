@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vanshika Sable :woman_technologist: </h1>
-<h3 align="center">final year ETC undergrad @BVCOEW, actively looking for tech and product internships</h3></h3>
+<h3 align="center">Software Developer @VOIS</h3></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vanshikasable&label=Profile%20views&color=0e75b6&style=flat" alt="vanshikasable" /> </p>
 
